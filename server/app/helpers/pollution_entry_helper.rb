@@ -1,0 +1,2 @@
+module PollutionEntryHelper
+end

@@ -1,0 +1,26 @@
+@import 'constants.scss';
+@import 'bourbon';
+
+body, html {
+  padding: 0;
+  margin: 0;
+  font-family: $primary-font;
+  background-color: $off-white;
+}
+
+.waiting {
+  @include size(220px 20px);
+  display: inline-block;
+  background: url('../images/waiting.gif') no-repeat;
+  position: absolute;
+  right: 25px;
+  bottom: 10px;
+  z-index: 10000;
+}
+
+.separator {
+  width: 90%;
+  height: 1px;
+  margin: 0 auto;
+  background-color: $accent-color;
+}

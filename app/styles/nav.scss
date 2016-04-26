@@ -1,0 +1,14 @@
+@import 'bourbon';
+@import 'constants.scss';
+
+.navigation  {
+  height: 100px;
+  background-color: $dark-gray;
+  opacity: 0.8;
+  padding-left: 15px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1000;
+}

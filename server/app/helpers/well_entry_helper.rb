@@ -1,0 +1,2 @@
+module WellEntryHelper
+end

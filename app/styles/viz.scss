@@ -1,0 +1,112 @@
+@import 'constants.scss';
+
+.map {
+  height: 100vh;
+  width: 100%;
+  display: inline-block;
+}
+
+.land {
+  fill: $land-color;
+}
+
+.state-boundary {
+  fill: none;
+  stroke: $border-color;
+}
+
+.d3-tip {
+  z-index: 1000;
+}
+
+.tooltip {
+  background-color: $off-white;
+  padding: 5px 10px;
+  border: 1px solid $dark-gray;
+
+  .info-line {
+    .label, .info-text {
+      color: $dark-gray;
+    }
+  }
+}
+
+.circle {
+  fill: $circle-color;
+  position: absolute;
+}
+
+.circle:hover {
+  fill: $circle-hover-color;
+}
+
+.circle-selected {
+  fill: $circle-selected-color;
+}
+
+.details {
+  position: absolute;
+  height: calc(100vh - 10px);
+
+  width: 250px;
+
+  padding-top: 10px;
+
+  right: 0px;
+  top: 0px;
+
+  z-index: 1000;
+}
+
+.detailsCover {
+  position: absolute;
+  width: 270px;
+
+  background-color: $dark-gray;
+  opacity: 0.8;
+
+  right: 0px;
+  top: 100px;
+  bottom: 0px;
+
+  z-index: 900;
+}
+
+@mixin layer {
+  height: 100vh;
+  width: 100%;
+  position: absolute;
+  display: block;
+}
+
+.usMapLayer {
+  @include layer;
+  z-index: 1;
+}
+
+.wellPointsLayer {
+  width: 100%;
+  height: 100%;
+  @include layer;
+  z-index: 3;
+  pointer-events: none;
+  svg {
+    .circle {
+      pointer-events: all;
+    }
+  }
+}
+
+.heatmapLayer {
+  display: none;
+  @include layer;
+  pointer-events: none;
+  z-index: 2;
+}
+
+.dummyHeatmapLayer {
+  @include layer;
+  pointer-events: none;
+  display: inline;
+  z-index: -1;
+}
