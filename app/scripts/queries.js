@@ -1,6 +1,7 @@
 var constants = require('./constants.js');
 
-var serverUrl = "http://localhost:3000/"
+// var serverUrl = "http://localhost:3000/"
+var serverUrl = "http://stark-reef-34291.herokuapp.com/";
 
 var $ = require('jquery'),
     viz = require("./viz.js");
