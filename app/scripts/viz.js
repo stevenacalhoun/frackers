@@ -198,7 +198,11 @@ function createRanking(detailedData, rankAttribute) {
 
   orderedRanks.sort(function(a,b) { return b.count - a.count });
   var rankList = [];
+
   for (i=0;i<5;i++) {
+    if (i >= orderedRanks.length) {
+      break;
+    }
     rankList.push(orderedRanks[i].label + ': ' + utilities.numberWithCommas(orderedRanks[i].count));
   }
   return rankList;
