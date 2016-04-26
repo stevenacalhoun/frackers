@@ -1,0 +1,1378 @@
+[
+    {
+        "city": "", 
+        "lat": "-96.94529", 
+        "state": "Texas", 
+        "owner": "EnerVest", 
+        "lng": "-96.94529", 
+        "id": "8C30589D-0F81-4B3B-A56D-3FC2A6D14B54"
+    }, 
+    {
+        "city": "Gaines", 
+        "lat": "69.0", 
+        "state": "Texas", 
+        "owner": "Citation Oil and Gas Corp.", 
+        "lng": "-66.0", 
+        "id": "4A8E618E-C05B-41D6-95A5-616223977FCC"
+    }, 
+    {
+        "city": "Susquehanna", 
+        "lat": "41.880177", 
+        "state": "Pennsylvania", 
+        "owner": "Southwestern Energy ", 
+        "lng": "-75.557449", 
+        "id": "812726C1-9E99-4B27-936F-30CC1EF2703D"
+    }, 
+    {
+        "city": "Susquehanna", 
+        "lat": "41.812", 
+        "state": "Pennsylvania", 
+        "owner": "Cabot Oil & Gas Corp", 
+        "lng": "-75.5638", 
+        "id": "05E69A58-B2BC-4E3D-940D-62132090B237"
+    }, 
+    {
+        "city": "Susquehanna", 
+        "lat": "41.8119", 
+        "state": "Pennsylvania", 
+        "owner": "Cabot Oil & Gas Corp", 
+        "lng": "-75.5638", 
+        "id": "BB975A01-D0B3-42BA-A541-72B97BA5DFE1"
+    }, 
+    {
+        "city": "Susquehanna", 
+        "lat": "41.896245", 
+        "state": "Pennsylvania", 
+        "owner": "Southwestern Energy ", 
+        "lng": "-75.564021", 
+        "id": "5F5C4DAF-3ABE-4732-B06A-AEA68AEBE374"
+    }, 
+    {
+        "city": "Susquehanna", 
+        "lat": "41.900931", 
+        "state": "Pennsylvania", 
+        "owner": "Southwestern Energy ", 
+        "lng": "-75.575558", 
+        "id": "BC9C0613-7656-4A63-8A0D-AA48C6F117DD"
+    }, 
+    {
+        "city": "DeWitt", 
+        "lat": "41.0", 
+        "state": "Texas", 
+        "owner": "Talisman Energy USA Inc.", 
+        "lng": "-76.0", 
+        "id": "4715F948-7D07-4310-9D16-02EB56C3F542"
+    }, 
+    {
+        "city": "Live Oak", 
+        "lat": "41.0", 
+        "state": "Texas", 
+        "owner": "Talisman Energy USA Inc.", 
+        "lng": "-76.0", 
+        "id": "3F8EB104-5C0C-49BC-8F30-07D0FA4E38C8"
+    }, 
+    {
+        "city": "Karnes", 
+        "lat": "41.0", 
+        "state": "Texas", 
+        "owner": "Talisman Energy USA Inc.", 
+        "lng": "-76.0", 
+        "id": "829DE6E6-D2F8-4062-9097-C9F206D39555"
+    }, 
+    {
+        "city": "Fayette", 
+        "lat": "39.911161", 
+        "state": "Pennslvania ", 
+        "owner": "Chevron USA Inc.", 
+        "lng": "-79.911197", 
+        "id": "89F5668E-E0A2-4865-A331-012D64FE70FD"
+    }, 
+    {
+        "city": "Taylor", 
+        "lat": "39.436473", 
+        "state": "West Virginia", 
+        "owner": "PDC Energy", 
+        "lng": "-79.968021", 
+        "id": "DDAB3988-BBA6-4E69-97E7-0F8C8EAFF3DB"
+    }, 
+    {
+        "city": "Taylor", 
+        "lat": "39.436343", 
+        "state": "West Virginia", 
+        "owner": "PDC Energy", 
+        "lng": "-79.968111", 
+        "id": "A4057D08-9479-4EEC-B45C-622A7A50B653"
+    }, 
+    {
+        "city": "Taylor", 
+        "lat": "39.436387", 
+        "state": "West Virginia", 
+        "owner": "PDC Energy", 
+        "lng": "-79.968202", 
+        "id": "0C10836B-21A6-414D-89EE-D1ADE6449CEB"
+    }, 
+    {
+        "city": "Barbour", 
+        "lat": "39.212469", 
+        "state": "West Virginia", 
+        "owner": "CONSOL Energy Inc.", 
+        "lng": "-80.012436", 
+        "id": "A8779FCE-E2D0-419D-9177-526D1763273A"
+    }, 
+    {
+        "city": "Barbour", 
+        "lat": "39.217625", 
+        "state": "West Virginia", 
+        "owner": "CONSOL Energy Inc.", 
+        "lng": "-80.01313", 
+        "id": "70EA41DC-BD30-4AB1-90B8-B34FE682444C"
+    }, 
+    {
+        "city": "Greene", 
+        "lat": "39.908519", 
+        "state": "Pennsylavania", 
+        "owner": "Chevron USA Inc.", 
+        "lng": "-80.035364", 
+        "id": "777708CF-8DDF-49FD-998D-23F6D9711A80"
+    }, 
+    {
+        "city": "Noble", 
+        "lat": "39.86799", 
+        "state": "Ohio", 
+        "owner": "Antero Resources Corporation", 
+        "lng": "-80.422415", 
+        "id": "698E0F8A-DFDD-4751-B5C1-426F5444997F"
+    }, 
+    {
+        "city": "Trumbull", 
+        "lat": "41.34781", 
+        "state": "Ohio", 
+        "owner": "Halcon Resources Corporation", 
+        "lng": "-80.5538", 
+        "id": "DA4DF17E-CF68-4802-81C8-2C30E2D6E13A"
+    }, 
+    {
+        "city": "Trumbull", 
+        "lat": "41.3507787", 
+        "state": "Ohio", 
+        "owner": "Halcon Resources Corporation", 
+        "lng": "-80.5543173", 
+        "id": "49759424-E827-4E83-AA6E-A92C9AEEBD83"
+    }, 
+    {
+        "city": "Trumbull", 
+        "lat": "41.314281", 
+        "state": "Ohio", 
+        "owner": "BP America Production Company", 
+        "lng": "-80.584906", 
+        "id": "8A07C578-ED12-42DB-80CC-36C1EBD142D9"
+    }, 
+    {
+        "city": "Trumbull", 
+        "lat": "41.354722", 
+        "state": "Ohio", 
+        "owner": "BP America Production Company", 
+        "lng": "-80.658333", 
+        "id": "2D201B74-CC67-4D88-85FE-50CC0DC49637"
+    }, 
+    {
+        "city": "Ritchie", 
+        "lat": "39.1809611", 
+        "state": "West Viginia", 
+        "owner": "Antero Resources Corporation", 
+        "lng": "-80.9301917", 
+        "id": "69132345-A5BF-41F4-86B9-4D8D602FA38E"
+    }, 
+    {
+        "city": "Buchanan", 
+        "lat": "37.454609", 
+        "state": "Virginia", 
+        "owner": "Range Resources Corporation", 
+        "lng": "-81.989951", 
+        "id": "9D28D461-93E2-467F-9B6B-C3CE655307F5"
+    }, 
+    {
+        "city": "Buchanan", 
+        "lat": "37.46637", 
+        "state": "Virginia", 
+        "owner": "Range Resources Corporation", 
+        "lng": "-82.017759", 
+        "id": "16C737C3-0098-4E07-8387-3EBD3C2B04CC"
+    }, 
+    {
+        "city": "Buchanan", 
+        "lat": "37.465256", 
+        "state": "Virginia", 
+        "owner": "Range Resources Corporation", 
+        "lng": "-82.026033", 
+        "id": "453D1A61-A0FD-4F38-B975-E4EA06A345B9"
+    }, 
+    {
+        "city": "Buchanan", 
+        "lat": "37.414038", 
+        "state": "Virginia", 
+        "owner": "Range Resources Corporation", 
+        "lng": "-82.065403", 
+        "id": "7663BCE6-E088-4F2C-BDDE-1379B74CD991"
+    }, 
+    {
+        "city": "Buchanan", 
+        "lat": "37.05632", 
+        "state": "Virginia", 
+        "owner": "Range Resources Corporation", 
+        "lng": "-82.070151", 
+        "id": "52B73565-3E5E-4918-826D-D3C05E4D897A"
+    }, 
+    {
+        "city": "Sanilac", 
+        "lat": "43.455685", 
+        "state": "Michigan", 
+        "owner": "Whiting Petroleum", 
+        "lng": "-82.651463", 
+        "id": "8C77229C-E686-40C3-B940-025FB04C872D"
+    }, 
+    {
+        "city": "Sanilac", 
+        "lat": "43.2211111", 
+        "state": "Michigan", 
+        "owner": "Whiting Petroleum", 
+        "lng": "-82.9438889", 
+        "id": "411BF1A0-723B-4D58-9F13-68339C9DBF40"
+    }, 
+    {
+        "city": "Ogemaw", 
+        "lat": "44.163712", 
+        "state": "Michigan", 
+        "owner": "Whiting Petroleum", 
+        "lng": "-83.95588", 
+        "id": "C55C4059-AB3F-4988-9207-EECB4932C9E9"
+    }, 
+    {
+        "city": "Gladwin", 
+        "lat": "43.8879004", 
+        "state": "Michigan", 
+        "owner": "Whiting Petroleum", 
+        "lng": "-84.3640511", 
+        "id": "D3358EC8-2865-4D03-B9F1-EFEDF1BC5725"
+    }, 
+    {
+        "city": "Gladwin", 
+        "lat": "43.8879004", 
+        "state": "Michigan", 
+        "owner": "Whiting Petroleum", 
+        "lng": "-84.3640511", 
+        "id": "90EFA4E0-A49F-4DB6-8195-08C889DD07FF"
+    }, 
+    {
+        "city": "Conecuh", 
+        "lat": "31.27696", 
+        "state": "Alabama", 
+        "owner": "Pruet Production Co.", 
+        "lng": "-86.74035", 
+        "id": "2FD9D29E-41F5-4A5C-A2C2-7699A691603A"
+    }, 
+    {
+        "city": "Conecuh", 
+        "lat": "31.28607", 
+        "state": "Alabama", 
+        "owner": "Pruet Production Co.", 
+        "lng": "-86.75612", 
+        "id": "85AA0FA2-F01A-447D-AEC1-C1862C5DCDA5"
+    }, 
+    {
+        "city": "Conecuh", 
+        "lat": "31.28663", 
+        "state": "Alabama", 
+        "owner": "Pruet Production Co.", 
+        "lng": "-86.76407", 
+        "id": "BA169FB7-9527-4E4A-87E0-21F66FBFD937"
+    }, 
+    {
+        "city": "Conecuh", 
+        "lat": "31.28482", 
+        "state": "Alabama", 
+        "owner": "Sklar Exploration Company L.L.C. ", 
+        "lng": "-86.78004", 
+        "id": "366A9F18-8A55-4CBF-834E-2457F5973386"
+    }, 
+    {
+        "city": "Conecuh", 
+        "lat": "31.27492", 
+        "state": "Alabama", 
+        "owner": "Sklar Exploration Company L.L.C. ", 
+        "lng": "-86.79154", 
+        "id": "E9E3C286-A80D-496B-A380-C476289055CA"
+    }, 
+    {
+        "city": "Lowndes", 
+        "lat": "33.67545", 
+        "state": "Mississippi", 
+        "owner": "Fletcher Petroleum Corp.", 
+        "lng": "-88.34233", 
+        "id": "654CCA72-C44F-4396-AFAC-D64C96DB4196"
+    }, 
+    {
+        "city": "Lowndes", 
+        "lat": "33.68469", 
+        "state": "Mississippi", 
+        "owner": "Fletcher Petroleum Corp.", 
+        "lng": "-88.36624", 
+        "id": "88FACEDF-E178-4F26-8CF2-7B6EF0240BB4"
+    }, 
+    {
+        "city": "Lowndes", 
+        "lat": "33.68594", 
+        "state": "Mississippi", 
+        "owner": "Fletcher Petroleum Corp.", 
+        "lng": "-88.36626", 
+        "id": "4175C66D-E3F2-4FA5-A677-8A535350AE80"
+    }, 
+    {
+        "city": "Wayne", 
+        "lat": "38.46083", 
+        "state": "Illinois", 
+        "owner": "SM Energy", 
+        "lng": "-88.5469444444", 
+        "id": "F4E4C477-5B9C-44BD-9FF9-16EB8F15C157"
+    }, 
+    {
+        "city": "Clarke", 
+        "lat": "31.87851", 
+        "state": "Mississippi", 
+        "owner": "Dove Oil Corporation", 
+        "lng": "-88.82814", 
+        "id": "DE45756F-AA0D-4581-B873-36319EBD44E5"
+    }, 
+    {
+        "city": "Clay", 
+        "lat": "33.72893", 
+        "state": "Mississippi", 
+        "owner": "Fletcher Petroleum Corp.", 
+        "lng": "-88.83142", 
+        "id": "6455FCC1-836E-406B-9477-41CAF22A5D9F"
+    }, 
+    {
+        "city": "Terrebonne", 
+        "lat": "29.13753", 
+        "state": "Louisiana", 
+        "owner": "Hilcorp Energy Company", 
+        "lng": "-90.50776", 
+        "id": "C56E1D12-17F8-4871-A41F-C0CD6122D5DA"
+    }, 
+    {
+        "city": "Tangipahoa", 
+        "lat": "30.8147222", 
+        "state": "Louisiana", 
+        "owner": "Devon Energy Production Company L. P.", 
+        "lng": "-90.5369444", 
+        "id": "1D0167EF-854B-40FC-B53C-111FDBEDA02D"
+    }, 
+    {
+        "city": "St. Helena", 
+        "lat": "30.9644444", 
+        "state": "Louisiana", 
+        "owner": "Devon Energy Production Company L. P.", 
+        "lng": "-90.7827778", 
+        "id": "5CDFCF87-A2E0-4612-A98C-FEF025B28E65"
+    }, 
+    {
+        "city": "St. Helena", 
+        "lat": "30.9866", 
+        "state": "Louisiana", 
+        "owner": "Encana Oil & Gas (USA) Inc.", 
+        "lng": "-90.806272", 
+        "id": "5EE010BC-A30A-4F7E-B628-B77C43573735"
+    }, 
+    {
+        "city": "St. Helena", 
+        "lat": "30.98268242", 
+        "state": "Louisiana", 
+        "owner": "Encana Oil & Gas (USA) Inc.", 
+        "lng": "-90.82540819", 
+        "id": "F80277F3-F65B-44C6-9F28-F61F09CBE1BB"
+    }, 
+    {
+        "city": "Cleburne", 
+        "lat": "35.577936", 
+        "state": "Arkansas", 
+        "owner": "XTO Energy/ExxonMobil", 
+        "lng": "-91.121014", 
+        "id": "13190D8E-6BD6-4C89-9405-821A6E3E06F0"
+    }, 
+    {
+        "city": "White", 
+        "lat": "35.355258", 
+        "state": "Arkansas", 
+        "owner": "BHP Billiton Petroleum ", 
+        "lng": "-91.534491", 
+        "id": "51287AD8-B4B6-4D5C-875C-7182A6BB8713"
+    }, 
+    {
+        "city": "Independence", 
+        "lat": "35.544011", 
+        "state": "Arkansas", 
+        "owner": "XTO Energy/ExxonMobil", 
+        "lng": "-91.54185", 
+        "id": "115E4148-14AB-4956-B1C4-ED58C923102E"
+    }, 
+    {
+        "city": "Independence", 
+        "lat": "35.544058", 
+        "state": "Arkansas", 
+        "owner": "XTO Energy/ExxonMobil", 
+        "lng": "-91.541872", 
+        "id": "56B49F70-7C49-427E-99FA-2A1C6D9F2535"
+    }, 
+    {
+        "city": "Independence", 
+        "lat": "35.544247", 
+        "state": "Arkansas", 
+        "owner": "XTO Energy/ExxonMobil", 
+        "lng": "-91.557898", 
+        "id": "57D400E2-7D9F-4DCA-8C1C-20E229F9C646"
+    }, 
+    {
+        "city": "Bienville", 
+        "lat": "32.40151667", 
+        "state": "Louisianna", 
+        "owner": "Energen Resources Corporation", 
+        "lng": "-93.0356", 
+        "id": "36A1F5F2-DCB2-4824-A355-0B9C1597919B"
+    }, 
+    {
+        "city": "Bienville", 
+        "lat": "32.42401667", 
+        "state": "Louisianna", 
+        "owner": "Energen Resources Corporation", 
+        "lng": "-93.0807", 
+        "id": "EA1B9AE8-59AF-49F0-A69E-A013E5A04623"
+    }, 
+    {
+        "city": "Bienville", 
+        "lat": "32.435384", 
+        "state": "Louisianna", 
+        "owner": "Energen Resources Corporation", 
+        "lng": "-93.098445", 
+        "id": "C82B392B-E071-4923-8D03-E6170E536332"
+    }, 
+    {
+        "city": "Bienville", 
+        "lat": "32.37828333", 
+        "state": "Louisianna", 
+        "owner": "Energen Resources Corporation", 
+        "lng": "-93.1598666667", 
+        "id": "848D1D7F-7F7D-4CC6-B0BA-B4FF7194A16F"
+    }, 
+    {
+        "city": "Bienville", 
+        "lat": "32.37183333", 
+        "state": "Louisianna", 
+        "owner": "Energen Resources Corporation", 
+        "lng": "-93.1670666667", 
+        "id": "EC38614A-2C42-4B44-90BC-6C946E6673C6"
+    }, 
+    {
+        "city": "Bossier Parish", 
+        "lat": "32.21567805", 
+        "state": "Lousiana", 
+        "owner": "BHP Billiton Petroleum ", 
+        "lng": "-93.25559642", 
+        "id": "0F6D23F9-BC55-40D9-AE11-9CC63E3DA15C"
+    }, 
+    {
+        "city": "De Soto Parish", 
+        "lat": "31.58360965", 
+        "state": "Lousiana", 
+        "owner": "BHP Billiton Petroleum ", 
+        "lng": "-93.29417326", 
+        "id": "EA2A7EEB-9338-442F-9EE4-9F569D327D9C"
+    }, 
+    {
+        "city": "Louisiana", 
+        "lat": "32.13430162", 
+        "state": "Red River", 
+        "owner": "Encana Oil & Gas (USA) Inc.", 
+        "lng": "-93.3482923", 
+        "id": "82AFE885-F008-40FB-912E-5BDC6FEFE79E"
+    }, 
+    {
+        "city": "Bossier", 
+        "lat": "32.38200173", 
+        "state": "Lousiana", 
+        "owner": "J-W Operating Company", 
+        "lng": "-93.64519312", 
+        "id": "C64E5026-9042-4C9D-BC22-718F2BD656DD"
+    }, 
+    {
+        "city": "Texas", 
+        "lat": "32.344479", 
+        "state": "Rusk", 
+        "owner": "Energen Resources Corporation", 
+        "lng": "-94.610939", 
+        "id": "8BD10498-3E03-484F-9A40-BE1FE41EAAB0"
+    }, 
+    {
+        "city": "Le Flore", 
+        "lat": "35.12538", 
+        "state": "Oklahoma", 
+        "owner": "BP America Production Company", 
+        "lng": "-94.79045", 
+        "id": "D705C99A-190F-4AF7-B119-76F5F224D8C4"
+    }, 
+    {
+        "city": "Le Flore", 
+        "lat": "35.12177", 
+        "state": "Oklahoma", 
+        "owner": "BP America Production Company", 
+        "lng": "-94.80265", 
+        "id": "37D7F195-61AB-4A86-9FD5-3444749EB32B"
+    }, 
+    {
+        "city": "Le Flore", 
+        "lat": "35.02485", 
+        "state": "Oklahoma", 
+        "owner": "BP America Production Company", 
+        "lng": "-94.89753", 
+        "id": "E914EF70-344D-4710-AE08-D7BBB9C2BFC8"
+    }, 
+    {
+        "city": "Le Flore", 
+        "lat": "35.04172", 
+        "state": "Oklahoma", 
+        "owner": "BP America Production Company", 
+        "lng": "-94.90744", 
+        "id": "263D72A3-C1C4-4DA6-90A3-D49203BAE75D"
+    }, 
+    {
+        "city": "Le Flore", 
+        "lat": "35.04556", 
+        "state": "Oklahoma", 
+        "owner": "BP America Production Company", 
+        "lng": "-94.91855", 
+        "id": "C7C29EA2-26BD-4B90-BEFA-B8CEE49CCAFA"
+    }, 
+    {
+        "city": "Brazos", 
+        "lat": "31.16661333", 
+        "state": "Texas ", 
+        "owner": "Halcon Resources Corporation", 
+        "lng": "-95.88507", 
+        "id": "05240CC8-4396-493B-8C85-B864935BF691"
+    }, 
+    {
+        "city": "Leon County", 
+        "lat": "31.18593", 
+        "state": "Texas ", 
+        "owner": "Halcon Resources Corporation", 
+        "lng": "-95.9264633", 
+        "id": "0B860848-4A0E-4A70-8017-83761C4F1C59"
+    }, 
+    {
+        "city": "Grimes", 
+        "lat": "30.693981", 
+        "state": "Texas ", 
+        "owner": "Halcon Resources Corporation", 
+        "lng": "-96.0979723", 
+        "id": "6A7C4DC3-7694-44E4-8F46-B292C8D11067"
+    }, 
+    {
+        "city": "Grimes County ", 
+        "lat": "30.6927633", 
+        "state": "Texas ", 
+        "owner": "Halcon Resources Corporation", 
+        "lng": "-96.0979723", 
+        "id": "AFFF0357-AE2A-4170-9D9B-D3D2B0CBC220"
+    }, 
+    {
+        "city": "Cowley", 
+        "lat": "37.40536548", 
+        "state": "Kansas", 
+        "owner": "SandRidge Energy", 
+        "lng": "-96.543959669", 
+        "id": "0D95970F-4D4D-48A9-B977-7CD50548E865"
+    }, 
+    {
+        "city": "Payne", 
+        "lat": "36.073959", 
+        "state": "Oklahoma ", 
+        "owner": "Devon Energy Production Company L. P.", 
+        "lng": "-96.950005", 
+        "id": "8A49D7F6-7DC9-4515-B648-2B277CC86C81"
+    }, 
+    {
+        "city": "State Waters - Santa Cruz Offshore Islands", 
+        "lat": "29.53873", 
+        "state": "California", 
+        "owner": "Penn Virginia Corporation", 
+        "lng": "-97.149289", 
+        "id": "F2947E7F-65B9-4DAB-859F-26F4C827AA3F"
+    }, 
+    {
+        "city": "Harvey", 
+        "lat": "37.956195", 
+        "state": "Kansas", 
+        "owner": "Encana Oil & Gas (USA) Inc.", 
+        "lng": "-97.214272", 
+        "id": "421C8BD8-606E-4B09-AAFD-4DAFF3697E1E"
+    }, 
+    {
+        "city": "Denton", 
+        "lat": "33.14973", 
+        "state": "Texas ", 
+        "owner": "Devon Energy Production Company L. P.", 
+        "lng": "-97.32075", 
+        "id": "B5C62DFB-2483-47A2-A942-17A492FA0B72"
+    }, 
+    {
+        "city": "Barber", 
+        "lat": "37.0282", 
+        "state": "Kansas", 
+        "owner": "SandRidge Energy", 
+        "lng": "-97.36062", 
+        "id": "9F508A18-5C9D-43CB-AC31-30A59AD6FC38"
+    }, 
+    {
+        "city": "Wise", 
+        "lat": "33.15569", 
+        "state": "Texs", 
+        "owner": "Devon Energy Production Company L. P.", 
+        "lng": "-97.466657", 
+        "id": "C7EF7143-155C-4E1E-B823-61EBCF0E2455"
+    }, 
+    {
+        "city": "Wise", 
+        "lat": "33.155704", 
+        "state": "Texs", 
+        "owner": "Devon Energy Production Company L. P.", 
+        "lng": "-97.466719", 
+        "id": "3215EF09-10E1-46BF-AD8F-823615E40ADD"
+    }, 
+    {
+        "city": "Wise", 
+        "lat": "33.162293", 
+        "state": "Texs", 
+        "owner": "Devon Energy Production Company L. P.", 
+        "lng": "-97.467024", 
+        "id": "D9C441D5-7D3F-4295-AACE-474AFE54E18E"
+    }, 
+    {
+        "city": "Wise", 
+        "lat": "33.150682", 
+        "state": "Texs", 
+        "owner": "Devon Energy Production Company L. P.", 
+        "lng": "-97.467193", 
+        "id": "4B7B46B0-3561-48CA-A621-79E7AD5FF7F5"
+    }, 
+    {
+        "city": "Sumner", 
+        "lat": "37.2015058", 
+        "state": "Kansas", 
+        "owner": "SandRidge Energy", 
+        "lng": "-97.476328907", 
+        "id": "F88F4D26-7B9F-4D61-92AD-8029B27D5E3B"
+    }, 
+    {
+        "city": "Sumner", 
+        "lat": "37.201488", 
+        "state": "Kansas", 
+        "owner": "SandRidge Energy", 
+        "lng": "-97.4770256", 
+        "id": "4A2D537B-45EC-4408-96D3-DD8BC17995E7"
+    }, 
+    {
+        "city": "OK", 
+        "lat": "35.4919444", 
+        "state": "Beckham", 
+        "owner": "Apache Corporation", 
+        "lng": "-97.483888", 
+        "id": "21BDC807-34E6-467E-8A7F-B4A4A27DBFB0"
+    }, 
+    {
+        "city": "State Waters - Contra Costa County", 
+        "lat": "28.690624", 
+        "state": "California", 
+        "owner": "Marathon Oil ", 
+        "lng": "-98.253715", 
+        "id": "0DF48C73-404D-4A21-87E7-71A2F516AF9A"
+    }, 
+    {
+        "city": "Canadian County", 
+        "lat": "35.653389", 
+        "state": "Oklahoma ", 
+        "owner": "Cimarex Energy Co.", 
+        "lng": "-98.323444", 
+        "id": "8E764875-8554-4A21-8586-B3502178923D"
+    }, 
+    {
+        "city": "OK", 
+        "lat": "35.483056", 
+        "state": "Beckham", 
+        "owner": "Apache Corporation", 
+        "lng": "-99.481667", 
+        "id": "8F133A05-0D25-4D15-A6F4-AED259CB94AF"
+    }, 
+    {
+        "city": "OK", 
+        "lat": "36.4741", 
+        "state": "Harper", 
+        "owner": "Apache Corporation", 
+        "lng": "-99.4835", 
+        "id": "16025A85-B332-42F3-9A41-A22F47701A33"
+    }, 
+    {
+        "city": "Mountrail", 
+        "lat": "48.19", 
+        "state": "North Dakota", 
+        "owner": "Whiting Petroleum", 
+        "lng": "-100.0", 
+        "id": "662061BE-5265-4A47-933A-C47EF25DB8FC"
+    }, 
+    {
+        "city": "Texas", 
+        "lat": "36.02286", 
+        "state": "Hemphill", 
+        "owner": "HighMount Exploration & Production", 
+        "lng": "-100.29346", 
+        "id": "148F57F5-CF83-4E89-A7D7-ADEF1EBBBFED"
+    }, 
+    {
+        "city": "Bottineau", 
+        "lat": "48.582862", 
+        "state": "North Dakota", 
+        "owner": "Corinthian Exploration (USA) Corp.", 
+        "lng": "-100.35475", 
+        "id": "FF63CD09-77B5-479E-BD72-94E98529C147"
+    }, 
+    {
+        "city": "Bottineau", 
+        "lat": "48.583074", 
+        "state": "North Dakota", 
+        "owner": "Corinthian Exploration (USA) Corp.", 
+        "lng": "-100.370474", 
+        "id": "A4570A37-DE65-4ABD-B203-207E0E61A9AC"
+    }, 
+    {
+        "city": "OK", 
+        "lat": "36.692222", 
+        "state": "Beaver", 
+        "owner": "Apache Corporation", 
+        "lng": "-100.514722", 
+        "id": "FEF42EE5-5AD2-4419-A60C-95B141E51BC1"
+    }, 
+    {
+        "city": "Bottineau", 
+        "lat": "48.97192", 
+        "state": "North Dakota", 
+        "owner": "Corinthian Exploration (USA) Corp.", 
+        "lng": "-100.59612", 
+        "id": "B6D7E05D-1747-4D34-86ED-466FD34BBA68"
+    }, 
+    {
+        "city": "Bottineau", 
+        "lat": "48.989628", 
+        "state": "North Dakota", 
+        "owner": "Corinthian Exploration (USA) Corp.", 
+        "lng": "-100.596322", 
+        "id": "80A7DCC9-998D-4DF0-86BE-BBBCECE62DF4"
+    }, 
+    {
+        "city": "Yuma", 
+        "lat": "39.92517", 
+        "state": "Colorado", 
+        "owner": "Augustus Energy Resources LLC", 
+        "lng": "-102.20645", 
+        "id": "A2B84662-E822-4E5F-9BD8-B5CAEBB58209"
+    }, 
+    {
+        "city": "Yuma", 
+        "lat": "39.93178", 
+        "state": "Colorado", 
+        "owner": "Augustus Energy Resources LLC", 
+        "lng": "-102.21127", 
+        "id": "0E4126CD-E583-4080-96D8-E73179A1289E"
+    }, 
+    {
+        "city": "Oldham", 
+        "lat": "35.55828908", 
+        "state": "Texs", 
+        "owner": "Apache Corporation", 
+        "lng": "-102.257095927", 
+        "id": "213459C5-DCF4-4F6B-AC5A-B90839AF552E"
+    }, 
+    {
+        "city": "Yuma", 
+        "lat": "39.921821", 
+        "state": "Colorado", 
+        "owner": "Augustus Energy Resources LLC", 
+        "lng": "-102.268367", 
+        "id": "2C81F214-F418-414E-84CC-6CC37B3A669A"
+    }, 
+    {
+        "city": "Yuma", 
+        "lat": "39.920575", 
+        "state": "Colorado", 
+        "owner": "Augustus Energy Resources LLC", 
+        "lng": "-102.278073", 
+        "id": "CCA55508-06E1-4157-8A25-3E2A313E3667"
+    }, 
+    {
+        "city": "Yuma", 
+        "lat": "39.917738", 
+        "state": "Colorado", 
+        "owner": "Augustus Energy Resources LLC", 
+        "lng": "-102.284407", 
+        "id": "8000B2DF-ECDB-4CF6-B189-298863249175"
+    }, 
+    {
+        "city": "Lea", 
+        "lat": "33.62673", 
+        "state": "New Mexico", 
+        "owner": "Chevron USA Inc.", 
+        "lng": "-102.48156", 
+        "id": "E5FBD684-7489-41CA-942D-96EBDA8651CB"
+    }, 
+    {
+        "city": "Ector", 
+        "lat": "31.9594546", 
+        "state": "Texasa", 
+        "owner": "XTO Energy/ExxonMobil", 
+        "lng": "-102.6330558", 
+        "id": "6EA11619-6DBD-4853-9DE8-9C6C9E60082A"
+    }, 
+    {
+        "city": "4247536225", 
+        "lat": "31.5895166", 
+        "state": "WARD", 
+        "owner": "Whiting Petroleum", 
+        "lng": "-103.0200211", 
+        "id": "2ED8CD95-62D0-455B-9B21-DB5EC0252C70"
+    }, 
+    {
+        "city": "Lea", 
+        "lat": "33.19724", 
+        "state": "New Mexico", 
+        "owner": "Apache Corporation", 
+        "lng": "-103.06397", 
+        "id": "188A140E-1FE7-4482-9FFB-45D93C4D73A1"
+    }, 
+    {
+        "city": "Lea", 
+        "lat": "33.20047", 
+        "state": "New Mexico", 
+        "owner": "Apache Corporation", 
+        "lng": "-103.06454", 
+        "id": "9F0B014C-3666-4DF2-A99A-AA1F7D319070"
+    }, 
+    {
+        "city": "Lea", 
+        "lat": "33.20442857", 
+        "state": "New Mexico", 
+        "owner": "Apache Corporation", 
+        "lng": "-103.065391158", 
+        "id": "5F7D78C1-A4FF-4227-8281-BA6F78CBCDB5"
+    }, 
+    {
+        "city": "Lea", 
+        "lat": "32.16484", 
+        "state": "New Mexico", 
+        "owner": "Chevron USA Inc.", 
+        "lng": "-103.06578", 
+        "id": "E38A6FE5-02F7-45D0-8E32-99022827E1AF"
+    }, 
+    {
+        "city": "Cheyenne", 
+        "lat": "41.176291", 
+        "state": "Nebraska", 
+        "owner": "Devon Energy Production Company L. P.", 
+        "lng": "-103.110718", 
+        "id": "F35EDA39-C3CB-4E6C-884C-4C38E7876FF0"
+    }, 
+    {
+        "city": "Divide County", 
+        "lat": "48.808222", 
+        "state": "North Dakota ", 
+        "owner": "Baytex Energy USA Ltd", 
+        "lng": "-103.302053", 
+        "id": "71F64B07-C7E6-44FE-B7FD-04B6B261BC88"
+    }, 
+    {
+        "city": "Divide County", 
+        "lat": "48.808222", 
+        "state": "North Dakota ", 
+        "owner": "Baytex Energy USA Ltd", 
+        "lng": "-103.302244", 
+        "id": "64075193-E71E-4E74-8994-0A5DAF54DAF2"
+    }, 
+    {
+        "city": "Divide County", 
+        "lat": "48.837211", 
+        "state": "North Dakota ", 
+        "owner": "Baytex Energy USA Ltd", 
+        "lng": "-103.394836", 
+        "id": "1EAD29EB-EE6B-4956-9142-95E891EE85A0"
+    }, 
+    {
+        "city": "Divide County", 
+        "lat": "48.837211", 
+        "state": "North Dakota ", 
+        "owner": "Baytex Energy USA Ltd", 
+        "lng": "-103.395003", 
+        "id": "E4172A20-D47C-4ABF-8A10-468BEC14D411"
+    }, 
+    {
+        "city": "Divide  ", 
+        "lat": "48.661844", 
+        "state": "North Dakota ", 
+        "owner": "Baytex Energy USA Ltd", 
+        "lng": "-103.50585", 
+        "id": "2BDDCBBC-F773-449E-9AB0-313502F577F4"
+    }, 
+    {
+        "city": "Kimball", 
+        "lat": "41.22243", 
+        "state": "Nebraska", 
+        "owner": "Nadel and Gussman", 
+        "lng": "-103.559376", 
+        "id": "7BCD665B-8194-4931-8E63-103281C902C7"
+    }, 
+    {
+        "city": "Kimball", 
+        "lat": "41.222514", 
+        "state": "Nebraska", 
+        "owner": "Nadel and Gussman", 
+        "lng": "-103.559749", 
+        "id": "98063D34-BF5C-4370-AD80-F5C3F73B3B79"
+    }, 
+    {
+        "city": "Banner", 
+        "lat": "41.47259", 
+        "state": "Nebraska", 
+        "owner": "Evertson Operating Company", 
+        "lng": "-103.79663", 
+        "id": "CFAEDF29-33ED-4692-A828-5FF10EB72C89"
+    }, 
+    {
+        "city": "", 
+        "lat": "48.280092", 
+        "state": "", 
+        "owner": "Oasis Petroleum", 
+        "lng": "-103.819353", 
+        "id": "0FC7006A-B33B-44A6-BE23-3F0AFD5B2A36"
+    }, 
+    {
+        "city": "Sioux", 
+        "lat": "42.194767", 
+        "state": "Nebraska", 
+        "owner": "Fidelity Exploration & Production", 
+        "lng": "-103.81945", 
+        "id": "51F63728-8A3E-44D3-8BAB-DC2FB07335F3"
+    }, 
+    {
+        "city": "Roosevelt", 
+        "lat": "48.0", 
+        "state": "Montana", 
+        "owner": "Oasis Petroleum", 
+        "lng": "-104.0", 
+        "id": "00527237-10FC-4B7F-B1EA-3ABE6BBEDEC5"
+    }, 
+    {
+        "city": "Sheridan", 
+        "lat": "48.448291", 
+        "state": "Montana", 
+        "owner": "Marathon Oil ", 
+        "lng": "-104.0048672", 
+        "id": "F3D139AD-49E2-4486-BC27-4EB33672F3C9"
+    }, 
+    {
+        "city": "Roosevelt", 
+        "lat": "48.0115897", 
+        "state": "Montana", 
+        "owner": "Statoil Oil & Gas LP", 
+        "lng": "-104.0115897", 
+        "id": "6AE3D363-66F8-496D-9FC0-6C71C102ECCE"
+    }, 
+    {
+        "city": "", 
+        "lat": "48.098689", 
+        "state": "", 
+        "owner": "Oasis Petroleum", 
+        "lng": "-104.049358", 
+        "id": "7AC93CC4-EA1E-4BA9-B92C-A234AD1CC2CC"
+    }, 
+    {
+        "city": "Richland", 
+        "lat": "47.867067", 
+        "state": "Montana", 
+        "owner": "Whiting Petroleum", 
+        "lng": "-104.050572", 
+        "id": "D5DCF831-22AE-45FC-8B9A-F1C33F4BDC50"
+    }, 
+    {
+        "city": "Richland", 
+        "lat": "47.867069", 
+        "state": "Montana", 
+        "owner": "Whiting Petroleum", 
+        "lng": "-104.050756", 
+        "id": "B1CD8B58-40C3-4459-AB61-1DDC59D129D1"
+    }, 
+    {
+        "city": "Laramie", 
+        "lat": "41.42645", 
+        "state": "Wyoming", 
+        "owner": "Marathon Oil ", 
+        "lng": "-104.241454", 
+        "id": "D4787171-F401-47AE-85BE-1FD5924E8375"
+    }, 
+    {
+        "city": "Laramie", 
+        "lat": "41.41978", 
+        "state": "Wyoming", 
+        "owner": "Marathon Oil ", 
+        "lng": "-104.245576", 
+        "id": "2F8D3E21-9C19-4F75-BF7A-FF7C7B188DAE"
+    }, 
+    {
+        "city": "Laramie", 
+        "lat": "41.0177", 
+        "state": "Wyoming", 
+        "owner": "Bill Barrett Corp", 
+        "lng": "-104.305", 
+        "id": "332DC78F-A2AE-4420-82DD-952684587581"
+    }, 
+    {
+        "city": "Laramie", 
+        "lat": "41.00327", 
+        "state": "Wyoming", 
+        "owner": "Bill Barrett Corp", 
+        "lng": "-104.33545", 
+        "id": "665357F9-2C9B-4724-96E7-9A6E2ACDD57C"
+    }, 
+    {
+        "city": "Laramie", 
+        "lat": "41.003267", 
+        "state": "Wyoming", 
+        "owner": "Bill Barrett Corp", 
+        "lng": "-104.33545", 
+        "id": "B9328629-B8DD-4978-8214-62C6D8D16E88"
+    }, 
+    {
+        "city": "Rio Arriba", 
+        "lat": "36.558435", 
+        "state": "New Mexcio", 
+        "owner": "ConocoPhillips Company/Burlington Resources", 
+        "lng": "-107.219495", 
+        "id": "1A0FBF1F-F96F-4DCB-B265-227054E497A4"
+    }, 
+    {
+        "city": "Rio Arriba", 
+        "lat": "36.51103", 
+        "state": "New Mexcio", 
+        "owner": "XTO Energy/ExxonMobil", 
+        "lng": "-107.48335", 
+        "id": "AFF7284D-B871-47BB-9245-E29FBCD08F83"
+    }, 
+    {
+        "city": "Garfield", 
+        "lat": "39.471455", 
+        "state": "Colordao", 
+        "owner": "Encana Oil & Gas (USA) Inc.", 
+        "lng": "-107.612313", 
+        "id": "06888E4A-F563-4C50-B473-F2EEA6CE9F4F"
+    }, 
+    {
+        "city": "San Juan", 
+        "lat": "36.785999", 
+        "state": "New Mexcio", 
+        "owner": "ConocoPhillips Company/Burlington Resources", 
+        "lng": "-107.98", 
+        "id": "62C4FA4A-5F0A-4E76-88F7-2F7DCE8C8113"
+    }, 
+    {
+        "city": "San Juan", 
+        "lat": "37.728547", 
+        "state": "Utah", 
+        "owner": "Anadarko Petroleum Corporation", 
+        "lng": "-109.06527", 
+        "id": "9C206C80-FF3A-4ABB-ACCC-438BE24B31EB"
+    }, 
+    {
+        "city": "San Juan", 
+        "lat": "38.18301", 
+        "state": "Utah", 
+        "owner": "Castleton Commodities International", 
+        "lng": "-109.15858", 
+        "id": "D427B323-E880-4D21-AE43-4C5CF71B4FB8"
+    }, 
+    {
+        "city": "Uintah", 
+        "lat": "40.14753992", 
+        "state": "Utah", 
+        "owner": "Crescent Point Energy US Corp", 
+        "lng": "-109.185087633", 
+        "id": "8DEE0256-7170-4599-BA1B-AD7AD7BC088B"
+    }, 
+    {
+        "city": "San Juan", 
+        "lat": "38.23179", 
+        "state": "Utah", 
+        "owner": "Castleton Commodities International", 
+        "lng": "-109.20189", 
+        "id": "E08F019D-EDDB-46BB-8104-9CA3B859619B"
+    }, 
+    {
+        "city": "San Juan", 
+        "lat": "38.23159", 
+        "state": "Utah", 
+        "owner": "Castleton Commodities International", 
+        "lng": "-109.20964", 
+        "id": "BA8EEF2C-C11A-4BDE-B7D2-8C0274980474"
+    }, 
+    {
+        "city": "Sublette", 
+        "lat": "42.674192", 
+        "state": "Wyominng", 
+        "owner": "Shell Oil Company affiliate", 
+        "lng": "-109.79195", 
+        "id": "BF2E9852-0DA5-41FE-AFE6-49D7ABA10228"
+    }, 
+    {
+        "city": "Nye", 
+        "lat": "38.4417082", 
+        "state": "Nevada", 
+        "owner": "Makoil Inc", 
+        "lng": "-115.3730531", 
+        "id": "83334854-1C5A-4ABB-924D-CF7891373BE9"
+    }, 
+    {
+        "city": "Eureka", 
+        "lat": "40.14105", 
+        "state": "Nevada", 
+        "owner": "Grant Canyon Oil and Gas", 
+        "lng": "-116.084728", 
+        "id": "259347C2-836B-471C-A550-B2BA226FD171"
+    }, 
+    {
+        "city": "Los Angeles Offshore", 
+        "lat": "33.73961639", 
+        "state": "California", 
+        "owner": "Occidental Oil and Gas", 
+        "lng": "-118.137054443", 
+        "id": "088B2E62-412D-4D45-8CB4-AECDD9F1FA47"
+    }, 
+    {
+        "city": "State Waters - Los Angeles County", 
+        "lat": "33.73989", 
+        "state": "California", 
+        "owner": "Occidental Oil and Gas", 
+        "lng": "-118.13719", 
+        "id": "CED4FF59-9B3C-4AE7-9AF6-4C00DE9A9338"
+    }, 
+    {
+        "city": "Los Angeles Offshore", 
+        "lat": "33.74002", 
+        "state": "California", 
+        "owner": "Occidental Oil and Gas", 
+        "lng": "-118.13738", 
+        "id": "7454FCB6-E733-4A16-A008-C610EB7816F5"
+    }, 
+    {
+        "city": "Los Angeles", 
+        "lat": "33.739319", 
+        "state": "CA", 
+        "owner": "Occidental Oil and Gas", 
+        "lng": "-118.137813", 
+        "id": "35FAA693-B0FB-4F16-8430-216C96F26F4F"
+    }, 
+    {
+        "city": "Los Angeles", 
+        "lat": "33.740001", 
+        "state": "CA", 
+        "owner": "Occidental Oil and Gas", 
+        "lng": "-118.138301", 
+        "id": "66315154-6565-4D3B-BE75-6E9BD07F65D9"
+    }, 
+    {
+        "city": "Los Angeles", 
+        "lat": "33.73973", 
+        "state": "CA", 
+        "owner": "Occidental Oil and Gas", 
+        "lng": "-118.139149", 
+        "id": "2B338290-0A42-466B-9EA4-AD85BF8B4CED"
+    }, 
+    {
+        "city": "Los Angeles", 
+        "lat": "33.75216883", 
+        "state": "CA", 
+        "owner": "Occidental Oil and Gas", 
+        "lng": "-118.194303506", 
+        "id": "CEF889B6-7B62-470F-8F2C-79C36E7A31AD"
+    }, 
+    {
+        "city": "Kern", 
+        "lat": "35.52427", 
+        "state": "CA", 
+        "owner": "Occidental Oil and Gas", 
+        "lng": "-119.26877", 
+        "id": "DCEB52C4-0D61-4719-885D-0B2C52C75B32"
+    }, 
+    {
+        "city": "Flaxman", 
+        "lat": "70.1731", 
+        "state": "Alaska", 
+        "owner": "XTO Energy/ExxonMobil", 
+        "lng": "-146.2536", 
+        "id": "2B883F89-27AE-461E-A40A-42863E4EEA1D"
+    }, 
+    {
+        "city": "Flaxman", 
+        "lat": "70.17314", 
+        "state": "Alaska", 
+        "owner": "XTO Energy/ExxonMobil", 
+        "lng": "-146.2536447", 
+        "id": "9E025F5F-862D-4FD6-A468-3597586AC250"
+    }, 
+    {
+        "city": "North Slope Borrough", 
+        "lat": "70.2158379", 
+        "state": "Alaska", 
+        "owner": "BP America Production Company", 
+        "lng": "-148.4980449", 
+        "id": "CF88BBCA-6542-4E71-9804-0764D4F21769"
+    }, 
+    {
+        "city": "North Slope Borrough", 
+        "lat": "70.2158379", 
+        "state": "Alaska", 
+        "owner": "BP America Production Company", 
+        "lng": "-148.4980449", 
+        "id": "95594241-EBB9-4DE3-BF17-4C73189EDF18"
+    }, 
+    {
+        "city": "North Slope Borrough", 
+        "lat": "70.241125", 
+        "state": "Alaska", 
+        "owner": "BP America Production Company", 
+        "lng": "-148.667517", 
+        "id": "4E4C7CFD-847F-4C35-B5CB-F8829D098D94"
+    }, 
+    {
+        "city": "", 
+        "lat": "40.044881", 
+        "state": "Utah ", 
+        "owner": "Petroglyph Operating Company", 
+        "lng": "-110.239161", 
+        "id": "5A29F7B3-7DB6-4B50-83CA-238EB973446A"
+    }, 
+    {
+        "city": "", 
+        "lat": "40.11031", 
+        "state": "Utah ", 
+        "owner": "Petroglyph Operating Company", 
+        "lng": "-110.34704", 
+        "id": "E680697C-CCA4-4D45-8BF6-AC39F2768733"
+    }, 
+    {
+        "city": "", 
+        "lat": "48.4588", 
+        "state": "State", 
+        "owner": "Petro Hunt", 
+        "lng": "-103.4124", 
+        "id": "F6AF51C7-19B2-40AD-B1C8-E7057C71D85E"
+    }, 
+    {
+        "city": "", 
+        "lat": "48.0", 
+        "state": "Roosevelt", 
+        "owner": "G3 Operating", 
+        "lng": "-104.0", 
+        "id": "312F36FE-2231-44CD-9B1A-C9F18C8F4DE7"
+    }, 
+    {
+        "city": "", 
+        "lat": "41.346413", 
+        "state": "Pennslvania ", 
+        "owner": "EXCO Resources", 
+        "lng": "-76.630379", 
+        "id": "75E89ED9-BB9A-4F71-8141-469FCCC9EB52"
+    }, 
+    {
+        "city": "", 
+        "lat": "41.237722", 
+        "state": "Pennslvania ", 
+        "owner": "EXCO Resources", 
+        "lng": "-76.600433", 
+        "id": "81206811-85BC-4611-952D-5B1C427662B4"
+    }, 
+    {
+        "city": "", 
+        "lat": "41.237744", 
+        "state": "Pennslvania ", 
+        "owner": "EXCO Resources", 
+        "lng": "-76.600458", 
+        "id": "9DEA6879-79BF-4591-A19A-46BD7E73D9E5"
+    }, 
+    {
+        "city": "", 
+        "lat": "41.22934", 
+        "state": "Pennslvania ", 
+        "owner": "EXCO Resources", 
+        "lng": "-76.58977", 
+        "id": "4116C18C-478D-4432-9BB1-10F2CEFC5842"
+    }, 
+    {
+        "city": "", 
+        "lat": "40.420253", 
+        "state": "Nevada", 
+        "owner": "Noble Energy", 
+        "lng": "-115.736981", 
+        "id": "4F1FD165-21DF-4596-8CBF-BBB1C81371A7"
+    }, 
+    {
+        "city": "", 
+        "lat": "40.8636326", 
+        "state": "Nevada", 
+        "owner": "Noble Energy", 
+        "lng": "-115.4066252", 
+        "id": "AEA8867B-072A-4FFA-A1DF-7CE9933A9F17"
+    }, 
+    {
+        "city": "", 
+        "lat": "40.8636326", 
+        "state": "Nevada", 
+        "owner": "Noble Energy", 
+        "lng": "-115.4066252", 
+        "id": "8F74340C-8903-481E-A139-648671BDAE1F"
+    }, 
+    {
+        "city": "", 
+        "lat": "32.03228", 
+        "state": "Midland", 
+        "owner": "Linn Energy", 
+        "lng": "-102.16575", 
+        "id": "57C6694C-A90C-426F-A6AB-C8041DD8062E"
+    }, 
+    {
+        "city": "", 
+        "lat": "38.05279", 
+        "state": "Indiana", 
+        "owner": "Woolsey Operating Company", 
+        "lng": "-87.71273", 
+        "id": "5F721C5B-EFC4-499D-9FC8-003E5DE31060"
+    }, 
+    {
+        "city": "", 
+        "lat": "38.51411", 
+        "state": "Illinois", 
+        "owner": "Woolsey Operating Company", 
+        "lng": "-88.1113836", 
+        "id": "B28E0DC4-BA6D-4469-9BD9-FB9050351F48"
+    }, 
+    {
+        "city": "", 
+        "lat": "38.1929353", 
+        "state": "Illinois", 
+        "owner": "Woolsey Operating Company", 
+        "lng": "-88.0601693", 
+        "id": "E48A008A-6A87-42F9-875B-B9505BC3A644"
+    }
+]
