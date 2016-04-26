@@ -49,9 +49,9 @@ module.exports = {
     plugins: [
       new HtmlWebpackPlugin({
         title: "Frackers"
-      }),
-      new CopyWebpackPlugin([
-        { from: "CNAME"}
-      ])
+      })
+      // new CopyWebpackPlugin([
+      //   { from: "CNAME"}
+      // ])
     ]
 };

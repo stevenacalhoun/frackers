@@ -62,12 +62,12 @@ var zoom = d3.behavior.zoom()
 // Add svgs for each layer
 function initializeSVGs() {
   height = $('#map').height();
-  width = $('#map').width()
+  width = $('#map').width();
 
   // Add svg element
   var svg = d3.select("#usMapLayer").append("svg")
     .attr("width", width)
-    .attr("height", height);
+    .attr("height", height+4);
 
   svg.call(zoom)
   mapG = svg.append("g");

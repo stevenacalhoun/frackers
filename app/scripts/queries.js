@@ -1,7 +1,7 @@
 var constants = require('./constants.js');
 
-// var serverUrl = "http://localhost:3000/"
-var serverUrl = "http://stark-reef-34291.herokuapp.com/";
+var serverUrl = "http://localhost:3000/"
+// var serverUrl = "http://stark-reef-34291.herokuapp.com/";
 
 var $ = require('jquery'),
     viz = require("./viz.js");
@@ -56,7 +56,6 @@ function addWellDetails(wellDetails) {
     data: {"well":wellDetails.id},
     dataType: "json",
     success: function(ingredients) {
-      console.log(ingredients)
       viz.displayWellDetails(wellDetails, ingredients)
       $('#waiting-icon').removeClass("waiting");
     },
