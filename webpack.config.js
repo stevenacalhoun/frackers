@@ -1,5 +1,6 @@
 var path = require('path');
 var HtmlWebpackPlugin = require('html-webpack-plugin')
+var CopyWebpackPlugin = require('copy-webpack-plugin');
 var bourbon = require('node-bourbon').includePaths;
 
 const PATHS = {
@@ -48,6 +49,9 @@ module.exports = {
     plugins: [
       new HtmlWebpackPlugin({
         title: "Frackers"
-      })
+      }),
+      new CopyWebpackPlugin([
+        { from: "CNAME"}
+      ])
     ]
 };
