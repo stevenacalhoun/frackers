@@ -1,7 +1,7 @@
 var constants = require('./constants.js');
 
-var serverUrl = "http://localhost:3000/"
-// var serverUrl = "http://stark-reef-34291.herokuapp.com/";
+// var serverUrl = "http://localhost:3000/"
+var serverUrl = "http://stark-reef-34291.herokuapp.com/";
 
 var $ = require('jquery'),
     viz = require("./viz.js");
@@ -49,22 +49,22 @@ function addHeatMap(state) {
 
 // Get Ingredients for a well
 function addWellDetails(wellDetails) {
-  $('#waiting-icon').addClass("waiting");
-  $.ajax({
-    type: "POST",
-    url: serverUrl + "well_ingredient/",
-    data: {"well":wellDetails.id},
-    dataType: "json",
-    success: function(ingredients) {
-      viz.displayWellDetails(wellDetails, ingredients)
-      $('#waiting-icon').removeClass("waiting");
-    },
-    error: function(data) {
-      console.log("Error");
-      console.log(data);
-      $('#waiting-icon').removeClass("waiting");
-    }
-  })
+  viz.displayWellDetails(wellDetails, [])
+  // $.ajax({
+  //   type: "POST",
+  //   url: serverUrl + "well_ingredient/",
+  //   data: {"well":wellDetails.id},
+  //   dataType: "json",
+  //   success: function(ingredients) {
+  //     viz.displayWellDetails(wellDetails, ingredients)
+  //     $('#waiting-icon').removeClass("waiting");
+  //   },
+  //   error: function(data) {
+  //     console.log("Error");
+  //     console.log(data);
+  //     $('#waiting-icon').removeClass("waiting");
+  //   }
+  // })
 }
 
 exports.addWellDetails = addWellDetails;
